@@ -1,0 +1,79 @@
+
+.name {
+    color:black;
+    font-size:100px;
+}
+.image {
+    background-image:
+    url("https://cdn.vox-cdn.com/thumbor/GHhk4ONF2yNtoS-QkicTineGkbU=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66512518/shutterstock_1550285891.0.jpg");
+font-size:125px;
+height:bold;
+opacity:0.5;
+}
+.require {
+font-size:55px;
+color:firebrick;
+margin: 0 auto;
+padding: 20px 40px;
+border: 1px solid green;
+}
+.napitki{
+    color:blueviolet;
+    border: 2px solid blueviolet;
+    height: 40px;
+    width: 80px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+img{
+    height:100px;
+}
+.osiyo{
+    color:blueviolet;
+    border: 2px solid blueviolet;
+    height: 40px;
+    width: 80px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+.unhealthy{
+    color:blueviolet;
+    border: 2px solid blueviolet;
+    height: 40px;
+    width: 80px;
+    margin: 10px;
+    padding: 30px 20px;
+}
+.indian{
+    color:blueviolet;
+    border: 2px solid blueviolet;
+    height: 40px;
+    width: 80px;
+    margin: 10px;
+    padding: 30px 20px;
+}
+.another{
+    color:blueviolet;
+    border: 2px solid blueviolet;
+    height: 40px;
+    width: 80px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+table{
+    text-align:center;
+    margin:20px auto;
+}
+#a{
+    color:red;
+}
+thead, h2{
+    color:rgb(190, 42, 16);
+}
+h3, a{
+    color:green;
+}
+table, th, td{
+    border: 6px solid rgb(51, 58, 155);
+    
+}
